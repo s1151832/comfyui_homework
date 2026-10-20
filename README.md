@@ -11,4 +11,4 @@
 ### 負向提示詞
 - low quality, bad anatomy, extra digits, missing digits, extra limbs, missing limbs
 ## 個人心得
-- 
+- 這次使用comfyui圖生圖，讓我體驗到AI圖象生成的過程，在過程中也遇到許多問題，例如每次生成的圖不一定能符合預期，需要不斷修改參數，但也因此讓我對AI與設計的結合有了更深入的認識。
